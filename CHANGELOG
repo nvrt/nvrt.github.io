@@ -1,0 +1,7 @@
+Version 1.1 - 22/03/2013
+- Added support for embed videos (lightbox): Youtube / Vimeo
+- Added Blog: working AJAX pagination / AJAX Blog Post details page
+- Note: For AJAX functionality to work, it must be served over http|s:// protocol (not file://)
+
+Version 1.0 - 27/02/2013
+- Initial release
